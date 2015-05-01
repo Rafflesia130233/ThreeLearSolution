@@ -1,0 +1,14 @@
+E:\Data Structure\User of csharp\ThreeLearSolution\BS\bin\Debug\BS.dll
+E:\Data Structure\User of csharp\ThreeLearSolution\BS\bin\Debug\BS.pdb
+E:\Data Structure\User of csharp\ThreeLearSolution\BS\bin\Debug\Dul.dll
+E:\Data Structure\User of csharp\ThreeLearSolution\BS\bin\Debug\Dul.pdb
+E:\Data Structure\User of csharp\ThreeLearSolution\BS\obj\Debug\BS.dll
+E:\Data Structure\User of csharp\ThreeLearSolution\BS\obj\Debug\BS.pdb
+E:\Data Structure\User of csharp\ThreeLearSolution\BS\obj\Debug\BS.csprojResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\Main Class Project\ThreeLearSolution\BS\bin\Debug\BS.dll
+E:\Data Structure\User of csharp\Main Class Project\ThreeLearSolution\BS\bin\Debug\BS.pdb
+E:\Data Structure\User of csharp\Main Class Project\ThreeLearSolution\BS\bin\Debug\Dul.dll
+E:\Data Structure\User of csharp\Main Class Project\ThreeLearSolution\BS\bin\Debug\Dul.pdb
+E:\Data Structure\User of csharp\Main Class Project\ThreeLearSolution\BS\obj\Debug\BS.csprojResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\Main Class Project\ThreeLearSolution\BS\obj\Debug\BS.dll
+E:\Data Structure\User of csharp\Main Class Project\ThreeLearSolution\BS\obj\Debug\BS.pdb

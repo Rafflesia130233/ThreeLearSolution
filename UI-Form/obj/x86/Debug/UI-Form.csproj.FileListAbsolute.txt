@@ -1,0 +1,26 @@
+E:\Data Structure\User of csharp\ThreeLearSolution\UI-Form\obj\x86\Debug\UI_Form.Properties.Resources.resources
+E:\Data Structure\User of csharp\ThreeLearSolution\UI-Form\obj\x86\Debug\UI_Form.Form1.resources
+E:\Data Structure\User of csharp\ThreeLearSolution\UI-Form\obj\x86\Debug\UI_Form.Form2.resources
+E:\Data Structure\User of csharp\ThreeLearSolution\UI-Form\bin\Debug\UI-Form.exe
+E:\Data Structure\User of csharp\ThreeLearSolution\UI-Form\bin\Debug\UI-Form.pdb
+E:\Data Structure\User of csharp\ThreeLearSolution\UI-Form\obj\x86\Debug\UI-Form.exe
+E:\Data Structure\User of csharp\ThreeLearSolution\UI-Form\obj\x86\Debug\UI-Form.pdb
+E:\Data Structure\User of csharp\ThreeLearSolution\UI-Form\bin\Debug\BS.dll
+E:\Data Structure\User of csharp\ThreeLearSolution\UI-Form\bin\Debug\Dul.dll
+E:\Data Structure\User of csharp\ThreeLearSolution\UI-Form\bin\Debug\BS.pdb
+E:\Data Structure\User of csharp\ThreeLearSolution\UI-Form\bin\Debug\Dul.pdb
+E:\Data Structure\User of csharp\ThreeLearSolution\UI-Form\obj\x86\Debug\UI-Form.csprojResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\ThreeLearSolution\UI-Form\obj\x86\Debug\UI-Form.csproj.GenerateResource.Cache
+E:\Data Structure\User of csharp\Main Class Project\ThreeLearSolution\UI-Form\obj\x86\Debug\UI-Form.exe
+E:\Data Structure\User of csharp\Main Class Project\ThreeLearSolution\UI-Form\obj\x86\Debug\UI-Form.pdb
+E:\Data Structure\User of csharp\Main Class Project\ThreeLearSolution\UI-Form\bin\Debug\UI-Form.exe
+E:\Data Structure\User of csharp\Main Class Project\ThreeLearSolution\UI-Form\bin\Debug\UI-Form.pdb
+E:\Data Structure\User of csharp\Main Class Project\ThreeLearSolution\UI-Form\bin\Debug\BS.dll
+E:\Data Structure\User of csharp\Main Class Project\ThreeLearSolution\UI-Form\bin\Debug\Dul.dll
+E:\Data Structure\User of csharp\Main Class Project\ThreeLearSolution\UI-Form\bin\Debug\BS.pdb
+E:\Data Structure\User of csharp\Main Class Project\ThreeLearSolution\UI-Form\bin\Debug\Dul.pdb
+E:\Data Structure\User of csharp\Main Class Project\ThreeLearSolution\UI-Form\obj\x86\Debug\UI-Form.csprojResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\Main Class Project\ThreeLearSolution\UI-Form\obj\x86\Debug\UI_Form.Form1.resources
+E:\Data Structure\User of csharp\Main Class Project\ThreeLearSolution\UI-Form\obj\x86\Debug\UI_Form.Form2.resources
+E:\Data Structure\User of csharp\Main Class Project\ThreeLearSolution\UI-Form\obj\x86\Debug\UI_Form.Properties.Resources.resources
+E:\Data Structure\User of csharp\Main Class Project\ThreeLearSolution\UI-Form\obj\x86\Debug\UI-Form.csproj.GenerateResource.Cache
